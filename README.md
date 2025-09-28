@@ -19,12 +19,12 @@
 - **Journal System:** schema for plan → execution → review with risk metrics (template shared).  
 - **Research Ledger:** structure for AI-assisted literature scans, synthesis, and experiment tracking (sample rows only).
 
-## Evidence of Depth (fill-in metrics before publishing)
-- Sources reviewed: **__** (papers, articles, videos)  
-- Notes written: **__** pages / **__** words  
-- Backtests/experiments run: **__** (rolling OOS / walk-forward)  
-- Charts annotated: **__**; Sessions journaled: **__**  
-- Public commits: **__** (link to GitHub insights)
+## Evidence of Depth (public-safe)
+- Sources reviewed: 9  (PDFs shared here; add videos/articles later)
+- Notes written: 31 pages / ~4,200 words
+- Backtests/experiments run: 0  (WIP)
+- Charts annotated: 1 public sample; Sessions journaled: 0 (template ready)
+- Public commits: 1+  (check the Commits tab and update as you add files)
 
 ---
 
